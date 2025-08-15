@@ -11,7 +11,7 @@
 
 # --- setup.cfg ---
 [metadata]
-name = weather-reporte
+name = weather-reporter
 version = 0.1.0
 description = Daily weather fetcher for README
 license = MIT
