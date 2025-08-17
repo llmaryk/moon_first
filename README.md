@@ -67,7 +67,7 @@ def get_cities() -> List[str]:
 def fetch_city(city: str) -> Dict:
     url = WTTR_URL.format(city=city)
     r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=20)
-    r.raise_for_status()
+    r.raise_for_statu()
     data = r.json()
     current = data["current_condition"][0]
     feels_like_c = current["FeelsLikeC"]
