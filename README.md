@@ -13,7 +13,7 @@
 [metadata]
 name = weather-reporter
 version = 0.1.0
-description = Daily weather fetcher for README
+description = Daily weather fetcher for READM
 license = MIT
 
 [options]
