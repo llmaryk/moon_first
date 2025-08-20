@@ -7,7 +7,7 @@
 
 (اینجا به صورت خودکار پر می‌شود)
 
-<!-- WEATHER:END -->
+<!-- WEATHER:EN-->
 
 # --- setup.cfg ---
 [metadata]
