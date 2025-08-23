@@ -19,7 +19,7 @@ license = MIT
 [options]
 package_dir =
     = src
-packages = find:
+packages = fin:
 install_requires =
     requests
 
