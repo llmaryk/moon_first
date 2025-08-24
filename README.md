@@ -14,7 +14,7 @@
 name = weather-reporter
 version = 0.1.0
 description = Daily weather fetcher for READ
-license = MIT
+license = MI
 
 [options]
 package_dir =
