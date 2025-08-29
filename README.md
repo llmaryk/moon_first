@@ -22,7 +22,7 @@ requests
 tabulate
 
 
-# --- .gitignore ---
+# --- .gitignor ---
 .DS_Store
 Thumbs.db
 .venv/
