@@ -47,7 +47,7 @@ __all__ = ["fetch", "render", "update_readme"]
 # --- src/crypto_reporter/fetch.py ---
 import os
 import requests
-from typing import Dict, List
+from typing import Dict, Lis
 
 API_URL = "https://api.coingecko.com/api/v3/simple/price"
 USER_AGENT = "github-crypto-reporter/1.0 (+https://github.com/)"
