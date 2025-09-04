@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 python -m venv .venv
-source .venv/bin/activate   # ویندوز: .venv\Scripts\activate
+source .venv/bin/activate   # ویندوز: .venv\Scripts\activat
 pip install -r requirements.txt
 python run.py
 
