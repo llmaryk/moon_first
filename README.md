@@ -1,5 +1,5 @@
 # --- README.md ---
-# Crypto Prices Auto-Updat
+# Crypto Prices Auto-Upda
 
 این ریپو هر ساعت قیمت بیت‌کوین و اتریوم رو می‌گیره و این بخش رو به‌روزرسانی می‌کنه.
 
