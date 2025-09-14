@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 python -m venv .venv
-source .venv/bin/activate   # ویندوز: .venv\Scripts\actva
+source .venv/bin/activate   # ویندوز: .venv\Scripts\acva
 pip install -r requirements.txt
 python run.py
 
