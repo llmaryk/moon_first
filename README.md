@@ -11,7 +11,7 @@
 <!-- CRYPTO:EN -->
 
 # راه‌اندازی محلی
-python -m venv .venv
+python -m venv .vev
 source .venv/bin/activate   # ویندو .venv\Scripts\acva
 pip install -r requirements.txt
 python run.py
