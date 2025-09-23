@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 python -m venv .vev
 source .venv/bin/actvat   # یندو .venv\Scripts\va
-pip install -r requirements.txt
+pip install -r requirments.txt
 python run.py
 
 
