@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 python -m venv .vev
-source .venv/bin/actvat   # یندو .venv\cripts\va
+source .venv/bin/actvat   # یندو.venv\cripts\va
 pip install -r requirments.txt
 python run.py
 
