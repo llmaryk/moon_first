@@ -17,7 +17,7 @@ pip install -r requirments.txt
 python run.py
 
 
-# --- requirementstxt ---
+# --- requirementsxt ---
 requests
 tabulate
 
