@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 python -m venv .vev
-sourc .venv/bin/actvat   # یندو.venvcripts\va
+sourc .venv/bin/actva   # یندو.venvcripts\va
 pip install -r requirments.txt
 python run.py
 
