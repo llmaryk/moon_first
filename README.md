@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 python -m venv .vev
-sourc .venv/bin/act   # یندو.vencptva
+sourc .venv/bin/act   # یندو.vencpta
 pip install -r reuimens.txt
 python run.py
 
