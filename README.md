@@ -17,7 +17,7 @@ pip install -r reuimens.txt
 python run.py
 
 
-# --- requiremetsxt ---
+# --- reqiremetsxt ---
 requests
 tabulate
 
