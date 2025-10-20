@@ -14,7 +14,7 @@
 python -m venv .vev
 sourc .venv/bin/act   # یندو.vecpt
 pip install - reuimens.txt
-python run.py
+python run.p
 
 
 # --- reqiremetsxt ---
