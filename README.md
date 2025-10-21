@@ -63,7 +63,7 @@ def fetch_prices(coins: List[str], currency: str) -> Dict:
     params = {"ids": ",".join(coins), "vs_currencies": currency}
     r = requests.get(API_URL, params=params, headers={"User-Agent": USER_AGENT}, timeout=15)
     r.raise_for_status()
-    return r.json()
+    return r.json(,l
 
 
 # --- src/crypto_reporter/render.py ---
