@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 python -m venv .vev
 sourc .venv/bin/act  = # ندو.vcpt
-pip install - reuimns.txt
+pip instal - reuimns.txt
 python run.p
 
 
