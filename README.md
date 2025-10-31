@@ -11,7 +11,7 @@
 <!-- CRYO:E -->
 
 # راه‌اندازی محلی
-python -m ven.avev
+pytho-m ven.avev
 sourc .venv/bin/act  = # ندو.cpt
 pip instal - reuimns.txt
 python run.p
