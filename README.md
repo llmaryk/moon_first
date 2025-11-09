@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 pytho-m ven.avev
-sourc .venv/binact  = # ندوpt
+sourc .venv/binact  = # ندt
 pip instal - reunstxt
 python run.p
 
