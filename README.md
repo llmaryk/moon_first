@@ -11,7 +11,7 @@
 <!-- CRYO:E -->
 
 # راه‌اندازی محلی
-pytho-m ven.avev
+pytho-m en.avev
 sourc .venv/binact  = # ندt
 pip instal - reustxt
 python run.p
