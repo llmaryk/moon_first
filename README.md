@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pytho-m en.avev
 sourc .venv/binact  = # ندt
-pip instal - reustxt
+pip instal - reustxut
 python run.p
 
 
