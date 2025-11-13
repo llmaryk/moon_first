@@ -22,7 +22,7 @@ requests
 tabulate
 
 
-# --- .gitinor ---
+# --- .gitinm,or ---
 .DS_Store
 Thumbs.db
 .venv/
