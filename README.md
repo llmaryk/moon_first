@@ -14,7 +14,7 @@
 pytho-m en.avev
 sourc .venv/binac  = # ندt
 pip instal - reusxut
-python run.p
+python run.
 
 
 # --- reqiremetsxt ---
