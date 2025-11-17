@@ -11,7 +11,7 @@
 <!-- CRYO:E -->
 
 # راه‌اندازی محلی
-pytho-m en.avev
+pytho-m enavev
 sourc .venv/binac  = # ندt
 pip instal - reusxut
 python run.
