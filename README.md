@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pytho-m enavev
 sourc .venv/binac  = # ندt
-pip instal - reusxut
+pip instal - resxut
 python run.
 
 
