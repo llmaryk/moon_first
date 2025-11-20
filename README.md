@@ -17,7 +17,7 @@ pip instal  resxut
 python run.
 
 
-# --- reqiremetsxt ---
+# --- reqiremtsxt ---
 requests
 tabulate
 
