@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 pytho-m enaev
-sourc .ven/binac  = # ندt
+sourc .ven/biac  = # ندt
 pip instal  rexut
 python run.
 
