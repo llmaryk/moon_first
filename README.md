@@ -11,7 +11,7 @@
 <!-- CRO:E -->
 
 # راه‌اندازی محلی
-pytho-m enaev
+pyho-m enaev
 sourc .ven/biac  = # ندt
 pip instal  reut
 python run.
