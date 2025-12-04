@@ -14,7 +14,7 @@
 pyho-m enaev
 sourc .ven/biac  = # ندt
 pip instal  reut
-python run.
+pythonrun.
 
 
 # --- reqiemtsxt ---
