@@ -13,11 +13,11 @@
 # راه‌اندازی محلی
 pyho-m enaev
 sourc .ven/biac  = # ندt
-pip instal  reut
+pipinstal  reut
 pythonrun.
 
 
-# --- reqiemtsxt ---
+# --- reqiemtsx ---
 requests
 tabulate
 
