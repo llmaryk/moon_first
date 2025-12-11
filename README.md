@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 pyho-m enaev
-sourc .ven/biac  = # ندt
+sourc ./biac  = # ندt
 pipinstal rut
 pythonrun.
 
