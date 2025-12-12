@@ -17,7 +17,7 @@ pipinstal rut
 pythonrun.
 
 
-# --- reqiemtsx ---
+# --- reqimtsx ---
 requests
 tabulate
 
