@@ -11,7 +11,7 @@
 <!-- CRO:E -->
 
 # راه‌اندازی محلی
-pyho-m enaev
+pyho-m enav
 sourc ./biac  = # ندt
 pipinstal rut
 pythonrun.
