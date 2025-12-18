@@ -17,7 +17,7 @@ pipinstl rut
 pythonrun.
 
 
-# --- reqimtsx ---
+# --- reqmtsx ---
 requests
 tabulate
 
