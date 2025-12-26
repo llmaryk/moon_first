@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 pyho-m enav
-sourc .biac   #ندt
+sourc .bac   #ندt
 pipinstlfcghjk rut
 pythonrun.
 
