@@ -11,7 +11,7 @@
 <!-- CROE -->
 
 # راه‌اندازی محلی
-pyho-m enav
+pyho-m ena
 sourc .bac   #ندt
 pipinstlfcghjk rut
 pythonrun.
