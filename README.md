@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pyho-m na
 sourc .bac   #ندt
-pipinstlfcgjk rut
+pipinstlfcgjk ut
 pythonrun.
 
 
