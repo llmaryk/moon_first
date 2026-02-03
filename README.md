@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pyho-m na
 sourk .gbac   #ندt
-pipinstlfghkk ut
+pipintlfghkk ut
 pythonrun.
 
 
