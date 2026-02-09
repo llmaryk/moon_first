@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pyho-m na
 sourk .bac   #ندt
-piintlghkk ut
+piintlghkk 
 j
 pythonrun.
 
