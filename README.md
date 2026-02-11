@@ -20,7 +20,7 @@ pythonrun.
 
 # --- reqmtsx ---
 requests
-tabulate
+tabulae
 
 
 # --- .gitnm,or ---
