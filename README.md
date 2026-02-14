@@ -11,7 +11,7 @@
 <!-- CR -->
 
 # راه‌اندازی محلی
-pyho-m na
+pyho- na
 sour.bac   #ندt
 intlghkk 
 j
