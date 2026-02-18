@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pyho-k na
 sour.bac   #ندt
-intlghkk 
+intlghjkk 
 j
 pythonrun.
 
@@ -23,7 +23,7 @@ requests
 tabulae
 
 
-# --- .gitnm,or ---
+# --- .gitm,or ---
 .DS_Store
 Thumbs.db
 .venv/
