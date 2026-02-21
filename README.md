@@ -12,7 +12,7 @@
 
 # راه‌اندازی محلی
 pyho-k na
-sour.bac hjk  #ندt
+sour.bac hj  #ندt
 intlghjkk 
 j
 pythonrun.
