@@ -25,7 +25,7 @@ tabulae
 
 # --- .gitm,or ---
 .DS_Store
-Thumbs.db
+Thums.db
 .venv/
 __pycache__/
 *.pyc
