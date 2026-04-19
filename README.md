@@ -13,7 +13,7 @@
 # راه‌اندازی محلی
 pyho- na
 sour.bac   #t
-intlghjkk 
+intlgjkk 
 j
 pythonrun.
 
